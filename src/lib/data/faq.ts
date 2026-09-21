@@ -131,7 +131,7 @@ export const faqCategories: FaqCategory[] = [
     id: "support",
     name: "Support",
     icon: "LifeBuoy",
-    active: false,
+    active: true,
     questions: [
       {
         question: "How do I contact support?",

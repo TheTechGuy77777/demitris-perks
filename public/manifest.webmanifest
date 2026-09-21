@@ -1,0 +1,10 @@
+{
+  "name": "Perks",
+  "short_name": "Perks",
+  "description": "Offers, coupons and benefits from the brands you already use.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FBFAF7",
+  "theme_color": "#FBFAF7",
+  "icons": [{ "src": "/icon.svg", "type": "image/svg+xml", "sizes": "any" }]
+}
